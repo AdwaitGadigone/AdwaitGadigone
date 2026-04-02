@@ -1,15 +1,17 @@
-Hi there, I am Adwait Gadigone 👋
+Hello, I am Adwait Gadigone 👋
 =================================
 
-I am a Computer Engineering student at the University of Toronto pursuing an AI Engineering minor. I am passionate about software development, intelligent systems, and data-driven solutions. 
+I am a motivated Computer Engineering student @ UofT with a passion for learning and exploring innovative ways to advance technology and AI. 
 
-Beyond coding scalable machine learning models and building robust hardware architectures, I am deeply interested in graphic design, circuit analysis, and playing pool. I enjoy bridging the gap between physical engineering problems and intelligent software algorithms.
+I excel academically and through my experiences in research, programming, internships, and leadership, I have built the adaptability to work effectively in any environment. 
+
+I am particularly interested in computer technology, programming, and AI, always seeking opportunities to create positive change in my community.
 
 Quick Facts
 -----------
-- 🔭 I am currently working on **Verity**, an AI-powered Canadian misinformation detector
-- 🌱 I am currently exploring advanced circuit analysis and low-level C programming
-- ⚡ Fun fact: When I am not building intelligent systems or engineering modular storage, I am probably playing pool
+- 🔭 I am currently working on Verity, an AI-powered Canadian misinformation detector
+- 🌱 I am currently exploring AI-driven workflow automation and low-level C programming
+- ⚡ Fun fact: The Apollo 11 computers that took humans to the moon had less processing power than a modern USB wall charger
 
 Languages and Core
 ------------------
